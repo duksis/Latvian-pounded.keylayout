@@ -167,7 +167,7 @@
             <key code="7" output="X"/>
             <key code="8" action="12"/>
             <key code="9" output="V"/>
-            <key code="10" output="#"/>
+            <key code="10" output="£"/>
             <key code="11" output="B"/>
             <key code="12" output="Q"/>
             <key code="13" action="33"/>
@@ -177,7 +177,7 @@
             <key code="17" action="36"/>
             <key code="18" output="!"/>
             <key code="19" output="@"/>
-            <key code="20" output="£"/>
+            <key code="20" output="#"/>
             <key code="21" output="$"/>
             <key code="22" output="^"/>
             <key code="23" output="%"/>
