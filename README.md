@@ -1,7 +1,9 @@
 Latvian-pounded keyboard layout for Mac OS X
 ============================================
 
-Default Latvian keyboard layout with the ounly change `£ <=> #`
+Default Latvian Mac OS X keyboard layout with the ounly change `£ <=> #`
+
+---
 
 Before:
 
@@ -10,8 +12,6 @@ Before:
 After:
 
 ![latvian-pounded](http://yfrog.com/scaled/landing/532/gmxe.png "Latvian-pounded")
-
----
 
 Instalation
 -----------
