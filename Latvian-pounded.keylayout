@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.3 on 2012-10-19 at 10:37 (EEST)-->
-<!--Last edited by Ukelele version 2.2.3 on 2012-10-19 at 10:39 (EEST)-->
+<!--Last edited by Ukelele version 2.2.4 on 2013-08-15 at 11:08 (GMT+02:00)-->
 <keyboard group="126" id="-26244" name="Latvian-pounded" maxout="1">
     <layouts>
         <layout first="0" last="0" modifiers="30" mapSet="138"/>
@@ -980,7 +980,7 @@
             <key code="36" output="&#x000D;"/>
             <key code="37" action="24"/>
             <key code="38" output="j"/>
-            <key code="39" action="0"/>
+            <key code="39" output="&#x0027;"/>
             <key code="40" action="41"/>
             <key code="41" output=";"/>
             <key code="42" output="\"/>
